@@ -1,0 +1,5 @@
+getLaserSetting = () => {
+    return "OFF";
+};
+
+getLaserSetting();
